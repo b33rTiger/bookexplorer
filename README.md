@@ -4,13 +4,12 @@ One page React app using Google's book api.
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
 ``clone`` repo
+
 ``npm install``
+
 ``npm run build``
+
 ``npm start``
 
 Navigate to localhost:3000 in your browser.
